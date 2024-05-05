@@ -1,4 +1,5 @@
-# Angular17NgxTranslateSsr
+<img src="https://miro.medium.com/v2/resize:fit:1080/1*h9sai0Vem04IwbCVqZO45w.png" />
+# Angular17 @ngx-translate for SSR
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
